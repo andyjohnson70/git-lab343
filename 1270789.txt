@@ -1,4 +1,4 @@
 Here’s my few lines of text
 For this lab
 I couldn’t come up with anything clever
-So I wrote this instead
+So I wrote this instead.
